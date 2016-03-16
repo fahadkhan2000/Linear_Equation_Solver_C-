@@ -50,6 +50,4 @@ public:
     friend std::ostream& operator<<(std::ostream &os, const LES &m);
 };
 
-
-
 #endif /* defined(__Linear_Equation_Solver__solver__) */

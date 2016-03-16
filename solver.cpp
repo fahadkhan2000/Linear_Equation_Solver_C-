@@ -516,25 +516,3 @@ std::ostream& operator <<(std::ostream &os, const LES &m)
     return os;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
